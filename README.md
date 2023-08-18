@@ -38,3 +38,9 @@ Cuando se quiere hacer una refactorizacion fuerte, para que tenga el objetivo es
 - Evitar el uso del else.
 - Priorizar el uso de la condicional ternaria.
 
+### Principio DRY
+
+- Evitar duplicidad en el codigo.
+- Simplifica las pruebas.
+- Ayuda a centralizar procesos.
+- Aplicar el principio DRY, lleva a refactorizar.
