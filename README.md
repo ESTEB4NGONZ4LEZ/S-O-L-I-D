@@ -29,6 +29,12 @@ Es el proceso que tiene como objetivo mejorar el codigo sin altenar su comportam
 
 Cuando se quiere hacer una refactorizacion fuerte, para que tenga el objetivo esperado, es imprecindible que el codigo que estamos refactorizando tenga pruebas automaticas.
 
----
+### Funciones 
 
+- La simplicidad es fundamental.
+- Funciones de tamano reducido.
+- Funciones de una linea sin causar complejidad innecesaria.
+- Menos de 20 linead de codigo .
+- Evitar el uso del else.
+- Priorizar el uso de la condicional ternaria.
 
