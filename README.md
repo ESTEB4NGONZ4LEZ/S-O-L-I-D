@@ -44,3 +44,18 @@ Cuando se quiere hacer una refactorizacion fuerte, para que tenga el objetivo es
 - Simplifica las pruebas.
 - Ayuda a centralizar procesos.
 - Aplicar el principio DRY, lleva a refactorizar.
+
+### Estructura recomendada de una clasae 
+
+- Comenzar con lista de propiedades:
+    - Propiedades Estaticas.
+    - Propiedades publicas.
+    - Propiedades privadas.
+    
+- Metodos:
+    - Empezando por el constructor estatico. 
+    - Seguido del constructor.
+    - Seguido de metodos estaticos. 
+    - Metodos privados.
+    - Resto de metodos de instancia ordenados de mayor a menor importancia.
+    - Getters y Setters.
